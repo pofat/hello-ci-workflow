@@ -5,4 +5,4 @@ machine:
 
 test:
   override:
-    - ./node_modules/.bin/moch
+    - ./node_modules/.bin/mocha
